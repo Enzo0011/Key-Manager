@@ -1,0 +1,15 @@
+{
+	"name": "key_manager",
+	"version": "1.0.0",
+	"description": "Simple Encryption key management software",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"crypto"
+	],
+	"author": "Enzo",
+	"license": "ISC"
+}
